@@ -1,0 +1,2 @@
+.container{flex-direction:column;justify-content:center;display:flex}.title{justify-content:center;align-items:center;font-family:Montserrat,sans-serif;display:flex}.operators{justify-content:center;gap:10px;display:flex}.num1,.operator,.num2{align-items:center;width:200px}.btn_container{justify-content:center;gap:20px;padding-top:30px;display:flex}.clean,.btn{cursor:pointer;width:100px;padding:10px}.result{font-family:Montserrat,sans-serif;font-style:20px;justify-content:center;display:flex}
+/*# sourceMappingURL=HW-js_6.4.62d6c74f.css.map */
