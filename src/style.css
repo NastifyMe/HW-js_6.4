@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.title {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.operators{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.num1 {
+    align-items: center;
+    width: 200px;
+}
+.operator {
+    align-items: center;
+    width: 200px;
+}
+.num2 {
+    align-items: center;
+    width: 200px;
+}
+.btn_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    gap: 20px;
+}
+.clean{
+    padding: 10px 10px;
+    cursor: pointer;
+    width: 100px;
+}
+.btn {
+    padding: 10px 10px;
+    cursor: pointer;
+    width: 100px;
+}
+.result {
+    font-family: 'Montserrat', sans-serif;
+    font-style: 20px;
+    display: flex;
+    justify-content: center;
+}
